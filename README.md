@@ -30,3 +30,4 @@ Contact
 
 *Note: Replace placeholders such as [platar.ant@yandex.ru] and [(https://github.com/pl4tar)] with your actual contact information.*
 # java_course_work
+Java 8
